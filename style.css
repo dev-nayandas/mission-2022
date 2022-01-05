@@ -68,3 +68,15 @@ h1{
 .cv-area{
     display: flex;
 }
+.subscribe{
+    background-color: rgba(255, 105, 180, 0.233);
+    padding: 40px;
+    text-align: center;
+    margin: 0;
+}
+.footer{
+    padding: 30px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
