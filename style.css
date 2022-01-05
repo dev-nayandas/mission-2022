@@ -1,5 +1,6 @@
 body{
     font-family: 'Oswald', sans-serif;
+    margin: 0 auto;
 }
 h1{
     font-size: 60px;
@@ -7,7 +8,7 @@ h1{
 .golden-color{
     color: palevioletred;
 }
-section{
+.top-section{
     display: flex;
 }
 .half-width{
@@ -24,4 +25,30 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: 400;
+}
+.aspectation{
+    text-align: center;
+}
+.aims{
+    display: flex;
+    
+}
+.aims-parts{
+    width: 33.33%;
+    padding: 5px;
+    
+}
+.aims-parts img{
+    width: 50%;
+}
+.mission{
+    background-color: turquoise;
+    margin:0px 10px 0px 10px;
+}
+.vission{
+    background-color: wheat;
+}
+.goals{
+    background-color: thistle;
+    margin:0px 10px 0px 10px;
 }
